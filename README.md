@@ -12,4 +12,4 @@ Il database e le informazioni in esso contenuto e il servizio webgis realizzati 
 Ciò significa che locali con slot/vlt potrebbero non essere più attivi o potrebbero mancare degli elementi sensibili.
 
 Ogni prodotto del Project Work è rilasciato con una propria licenza indicata nella Relazione Finale del Project Work.
-Ove non diversamente indicato, il materiale si intende rilasciato con licenza Creative Commonso Attribuzione 4.0 (CC BY 4.0).
+Ove non diversamente indicato, il materiale si intende rilasciato con licenza Creative Commons Attribuzione 4.0 (CC BY 4.0).
