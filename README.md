@@ -1,4 +1,4 @@
-# SOFTWARE GEOGRAFICO LIBERO A SUPPORTO DEL CONTRASTO ALLA LUDOPATIA
+# SOFTWARE GEOGRAFICO LIBERO A SUPPORTO DEL CONTRASTO AL GIOCO D'AZZARDO PATOLOGICO
 Il repository contiene tutto il materiale prodotto entro il Project Work "SOFTWARE GEOGRAFICO LIBERO A SUPPORTO DEL CONTRASTO ALLA LUDOPATIA" svolto durante il Master in Management del Software Libero, promosso da Università del Piemonte Orientale e Regione Piemonte nel 2017/2018.
 
 Scopo del Project Work è lo sviluppo di una metodologia di individuazione preliminare delle aree inidonee ad ospitare apparecchi per il gioco oggetto della l.r. 9/2016 attraverso l’impiego di strumenti geografici liberi (FOSS4G/GFOSS).
