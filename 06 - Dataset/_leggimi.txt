@@ -1,4 +1,4 @@
 I dataset nel formato .csv sono l'esportazione delle tavole del database.
-I singoli layer degli elementi sensibili (sciple e università, uffici postali, banche) sono stati fusi in un unico layer di elementi sensibili.
+I singoli layer degli elementi sensibili (scuole e università, uffici postali, banche) sono stati fusi in un unico layer di elementi sensibili.
 Al fine di migliorare l'efficienza del database, le geometrie dei layer poligoni derivanti dall'applicazione del buffer sono contenute in un campo della tavola dei punti che, dunque, contiene un campo geom (geometria del punto) e un campo geombuf (geometria del poligono). A livello di database questo è possibile ed anzi auspicabile visto che il poligono deriva direttamente dal punto.
 Volendo visualizzare gli elementi (slot ed elementi sensibili) non attraverso il database ma attraverso layer indipendenti sono allegati i layer stessi in formato geopackage, ricordando però che utilizzando i singoli layer non è possibile ricostruire il database e le sue relazioni. 
